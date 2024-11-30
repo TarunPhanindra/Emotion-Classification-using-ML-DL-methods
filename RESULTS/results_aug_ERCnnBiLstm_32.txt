@@ -1,0 +1,16 @@
+K-Fold Cross-Validation Results
+Average Validation Accuracy: 0.9546
+Average Validation Precision: 0.9561
+Average Validation Recall: 0.9546
+Average Validation F1-Score: 0.9547
+Best Validation Accuracy: 0.9667 (Fold 4)
+
+Test Accuracy: 0.9641
+Test Precision: 0.9646
+Test Recall: 0.9641
+Test F1-Score: 0.9641
+Fold 1: Accuracy=0.9249, Precision=0.9271, Recall=0.9249, F1-Score=0.9248
+Fold 2: Accuracy=0.9653, Precision=0.9658, Recall=0.9653, F1-Score=0.9654
+Fold 3: Accuracy=0.9508, Precision=0.9544, Recall=0.9508, F1-Score=0.9514
+Fold 4: Accuracy=0.9667, Precision=0.9671, Recall=0.9667, F1-Score=0.9667
+Fold 5: Accuracy=0.9653, Precision=0.9660, Recall=0.9653, F1-Score=0.9653
